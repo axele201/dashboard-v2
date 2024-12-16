@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.kontener{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    font-family: "Merriweather", serif;
+}
+.app-sidebar {
+    background-color: blueviolet !important;
+    color: white;
+  }
+  .app-sidebar .nav-link {
+    color: white !important;
+    font-size: 20px;
+}
+
+.app-sidebar .nav-link i {
+    color: white !important;
+    font-size: 20px;
+}
+
+.app-sidebar .nav-header {
+    color: white !important;
+    font-size: 20px;
+}
+.icon-mail{
+    font-size: 30px;
+}
